@@ -1,4 +1,4 @@
-# Improving-Turbine-Efficiency-in-Ships
+# Improving-Turbine-Efficiency-in-Ships (Team Project)
 
 An exhaustive dataset of Ship's logs containing data from gas turbine rate of revoution to lever position and ship speed and the correlation between all these parameters with the decay state coefficient(rate at which turbine energy decays) of compressor, turbines in the ship.
 
